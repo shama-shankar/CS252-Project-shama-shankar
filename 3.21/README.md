@@ -22,7 +22,7 @@ integer is passed on the command line.
 
 ## Output :
 
-![Project Image]("C:\Users\jgaga\OneDrive\Desktop\CSOutput\A1.jpeg")
+![Project Image](https://github.com/shama-shankar/CS252-Project-shama-shankar/blob/main/3.21/A1.jpeg)
 
 ## Explanation of the code
 
