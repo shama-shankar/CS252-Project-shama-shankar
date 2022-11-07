@@ -11,7 +11,7 @@ the number entered by the user.
 
 Output :
 
-![Project Image]("C:\Users\jgaga\OneDrive\Desktop\CSOutput\A2.jpeg")
+![Project Image](https://github.com/shama-shankar/CS252-Project-shama-shankar/blob/main/4.23/A2.jpeg)
 
 ## Explanation of code snippets
 
